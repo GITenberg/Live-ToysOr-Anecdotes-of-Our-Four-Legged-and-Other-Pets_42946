@@ -1,0 +1,41 @@
+_repo: Live-ToysOr-Anecdotes-of-Our-Four-Legged-and-Other-Pets_42946
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Weir, Harrison
+    alias: Weir, Harrison William
+    birthdate: 1824
+    deathdate: 1906
+    gutenberg_agent_id: '8210'
+    url: http://www.gutenberg.org/2009/agents/8210
+    wikipedia: http://en.wikipedia.org/wiki/Harrison_Weir
+covers:
+- cover_type: archival
+  image_path: 42946-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Davenport, Emma
+    alias: Davenport, Emma Anne Georgina
+    gutenberg_agent_id: '41940'
+    url: http://www.gutenberg.org/2009/agents/41940
+description: ''
+gutenberg_issued: '2013-06-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42946'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Pets -- Juvenile fiction'
+- !lcsh 'Human-animal relationships -- Juvenile fiction'
+- !lcsh 'Children''s stories'
+tableOfContents: Moppy, the white rabbit -- The two birds, Goldie and Brownie -- Poll
+  parrot -- Neddy and the rifle donkey -- Bunny, the wild rabbit -- The jackdaw --
+  Pricker, the hedgehog -- Drake, the retriever -- Tawney, the terrier -- Puffer,
+  the pigeon -- Dr. Battius, the bat -- The chough -- The kittens, Blacky and Snowdrop
+  -- Bluebeard, the shetland pony -- Joe, the german dog.
+title: Live Toys; Or, Anecdotes of Our Four-Legged and Other Pets
+url: http://www.gutenberg.org/ebooks/42946
